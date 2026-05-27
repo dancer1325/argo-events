@@ -1,16 +1,6 @@
 # Argo Workflow Trigger
 
-Argo workflow is K8s custom resource which help orchestrating parallel jobs on Kubernetes.
-
-<br/>
-<br/>
-
-<p align="center">
-  <img src="https://github.com/argoproj/argo-events/blob/master/docs/assets/argo-workflow-trigger.png?raw=true" alt="Argo Workflow Trigger"/>
-</p>
-
-<br/>
-<br/>
+![](/docs/assets/argo-workflow-trigger.png)
 
 ## Trigger a workflow
 
